@@ -1,4 +1,4 @@
-package edu.cnm.temperature;
+package edu.cnm.deepdive.temperature;
 
 public class C2F {
 
